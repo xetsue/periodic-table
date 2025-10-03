@@ -1,6 +1,6 @@
 # Periodic Table
 Yet Another Minimalist but Informative Periodic Table with tap to view information. 
-[https://xetsue.github.io/periodic-table/](https://xetsue.github.io/periodic-table/)
+Use here:[https://xetsue.github.io/periodic-table/](https://xetsue.github.io/periodic-table/)
 
 # Previews
 #### Desktop
